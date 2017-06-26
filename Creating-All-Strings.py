@@ -15,13 +15,3 @@ while list_number_1 < 91:
         list_number_2 = list_number_2 + 1 #This changes the middle number - WORKS
     list_number_1 = list_number_1 + 1 #This changes the first number - works!
 
-
-#Something is tripping out with the ranges!
-
-#creation()
-
-#list_number_1 = list_number_1 + 1
-
-#It's not restarting either "number" or 
-
-#You need it to reach add and then stop, not go out of range.
